@@ -1,0 +1,2 @@
+export const SET_RANGE_INFO = 'SET_RANGE_INFO'
+export const SET_DIVISOR_INFO = 'SET_DIVISOR_INFO'
